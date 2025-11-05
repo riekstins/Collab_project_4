@@ -1,6 +1,5 @@
 # Collab_project_4
 
-# [Your Project Name]
 
 ## Team Members
 - Member 1 - [Name]
