@@ -9,6 +9,23 @@
 ## Project Description
 App that generates random quizz questions. 
 
+MVP:
+to be decided
+
+Feature ideas:
+Host mode
+Participant mode
+Voice aloud
+Practice mode
+In-person mode
+Online mode
+
+
+Nice-to-have:
+Tournament option
+
+
+
 ## Problem Statement
 Hard to find free quizz questions without adds.
 
@@ -20,4 +37,5 @@ Hard to find free quizz questions without adds.
 ### 2. GitHub Repository
 
 project-name/
+
 └── README.md
