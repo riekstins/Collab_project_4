@@ -1,31 +1,22 @@
 # Collab_project_4
-
+# Open trivia quizz
 
 ## Team Members
-- Member 1 - [Name]
-- Member 2 - [Name]
-- Member 3 - [Name]
+- Member 1 - Petra Baiba Olehno
+- Member 2 - Viktors Liepiņš-Kolodins
+- Member 3 - Linda Bondare
 
 ## Project Description
-[2-3 sentences describing what your app does]
+App that generates random quizz questions. 
 
 ## Problem Statement
-[What problem are you solving? Who is this for?]
+Hard to find free quizz questions without adds.
 
 ## API Selection
-**API Name:** [e.g., TMDB API]  
-**API Documentation:** [URL]  
-**Why this API?** [1-2 sentences]
+**API Name:** Open Trivia DB 
+**API Documentation:** https://opentdb.com/api_config.php  
+**Why this API?** Meets all task requirements for choosing an API. 
 
 ### 2. GitHub Repository
 
-**Required structure for now:**
 
-project-name/
-└── README.md
-
-**README.md should include:**
-- Project title
-- Brief description
-- Team members
-- API being used
