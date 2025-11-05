@@ -8,9 +8,11 @@
 
 ## Project Description
 App that generates random quizz questions. 
+HAVE FUN AS A TEAM 
 
 MVP:
 to be decided
+
 
 Feature ideas:
 Host mode
@@ -24,6 +26,13 @@ Online mode
 Nice-to-have:
 Tournament option
 
+
+STILL NEED TO DO THIS:
+API Keys & Security
+Never commit API keys to GitHub
+Create a .env.example file (without real keys)
+Add .env to .gitignore
+Document where team members should get keys
 
 
 ## Problem Statement
